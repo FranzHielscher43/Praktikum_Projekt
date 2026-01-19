@@ -48,6 +48,13 @@ Es ist **nicht als Softwareprojekt** im klassischen Sinne gedacht.
 
 ---
 
+## Erstellung des Berichts
+
+Nutzung der LateX-Plattform Overleaf:
+https://de.overleaf.com/project/6968f7543d9308e1c899c63e
+
+---
+
 ## Hinweis
 
 Inhalt und Struktur des Berichts unterliegen den jeweiligen Prüfungsordnungen und Vorgaben der Hochschule.  
